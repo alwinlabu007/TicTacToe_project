@@ -90,7 +90,7 @@ void play()
 				}
 				else
 				{
-					printf("Choose another position!\n"); 
+					printf("\nChoose another position!\n"); 
 				}
 			}
 			else if(count % 2 == 1)
@@ -105,7 +105,7 @@ void play()
 				}
 				else
 				{
-					printf("Choose another position!\n"); 
+					printf("\nChoose another position!\n\n"); 
 				}
 			}
 				printBoard(mat);
